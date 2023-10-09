@@ -2,11 +2,11 @@
 
 Простая веб-игра "Змейка", созданная с использованием HTML, CSS и JavaScript.
 
-![Скриншот игры](screenshot.png)
+![Скриншот игры](https://github.com/toqsukr/SnakeGame/assets/72607622/18cb5b1e-51fc-4dd5-a7d8-a9eacdfb7e15)
 
 ## Инструкции по запуску
 
-![https://snake-game-five-omega.vercel.app/](https://snake-game-five-omega.vercel.app/)
+[https://snake-game-five-omega.vercel.app/](https://snake-game-five-omega.vercel.app/)
 
 ## Как играть
 
